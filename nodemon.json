@@ -1,0 +1,12 @@
+{
+  "watch": [
+    "src/**/*.ts",
+    "*.config.js",
+    "*.config.json",
+    ".eslintrc.js"
+  ],
+  "verbose": true,
+  "ignore": [],
+  "ext": "ts,json,env",
+  "exec": "npm run serve"
+}
